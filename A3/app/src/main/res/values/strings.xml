@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application 3</string>
+    <string name="perm_label">Kaboom Permission</string>
+    <string name="perm_desc">Permission to establish communication between applications App1, App2 and App3 via Broadcast Receivers.</string>
+    <string name="launch_menu">Launch Apps</string>
+    <string name="exit_menu">Exit</string>
+</resources>
+

@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/launch_m"
+        android:title="@string/launch_menu"/>
+    <item
+        android:id="@+id/exit_m"
+        android:title="@string/exit_menu"/>
+</menu>
